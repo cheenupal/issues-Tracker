@@ -8,7 +8,7 @@ Mongoose
 
 # Installation
 Clone the latest Repository
-git clone https://github.com/rahulsups/nodejs-auth.git
+git clone https: https://cheenupal.github.io/issues-Tracker/
 
 # Into the project directory
 cd nodejs-auth
